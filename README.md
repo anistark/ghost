@@ -13,7 +13,12 @@ npm install
 ```
 This installs all the necessary dependencies.
 
-Run:
+As a database, mongodb has been used. So, you'll need to start mongodb in a terminal.
+Opn a new terminal and start your mongodb server
+```
+mongod
+```
+Now you are ready to run:
 ```
 node app.js
 ```
