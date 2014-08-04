@@ -5,7 +5,7 @@ An online editor in the making in node.js
 
 Currently:
 
-Displays a normal text editor. Made in accordance with Ace Editor. Using monogjs for monogodb.
+Displays a normal text editor. Made in accordance with Ace Editor. Using [monogjs](http://mafintosh.github.io/mongojs/) for monogodb.
 
 To run locally:
 ```
