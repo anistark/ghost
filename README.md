@@ -1,11 +1,11 @@
 ghost
 =====
 
-An online editor in the making in node.js 
+An online editor in the making in [node.js](http://nodejs.org/) 
 
 Currently:
 
-Displays a normal text editor. Made in accordance with Ace Editor. Using [monogjs](http://mafintosh.github.io/mongojs/) for monogodb.
+Displays a normal text editor. Made in accordance with [Ace Editor](http://ace.c9.io/). Using [monogjs](http://mafintosh.github.io/mongojs/) for [monogodb](http://www.mongodb.org/).
 
 To run locally:
 ```
