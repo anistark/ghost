@@ -11,10 +11,10 @@ To run locally:
 ```
 npm install
 ```
-This installs all the necessary dependencies.
+This installs all the necessary dependencies. Make sure you install ALL the dependencies before proceeding.
 
 As a database, mongodb has been used. So, you'll need to start mongodb in a terminal.
-Opn a new terminal and start your mongodb server
+Open a new terminal and start your mongodb server
 ```
 mongod
 ```
