@@ -1,8 +1,8 @@
 ghost
 =====
 
-[![Build Status](https://github.org/anistark/ghost?branch=master)](https://github.org/anistark/ghost)
-[![Code Coverage](https://github.org/g/anistark/ghost/?branch=master)](https://github.org/g/anistark/ghost/?branch=master)
+[![Build Status](https://travis-ci.org/cribbb/cribbb.png?branch=master)](https://github.org/anistark/ghost)
+[![Code Coverage](https://scrutinizer-ci.com/g/cribbb/cribbb/badges/coverage.png?b=master)](https://github.org/anistark/ghost/?branch=master)
 
 An online editor in the making in [node.js](http://nodejs.org/) 
 
