@@ -1,6 +1,9 @@
 ghost
 =====
 
+[![Build Status](https://github.org/anistark/ghost?branch=master)](https://github.org/anistark/ghost)
+[![Code Coverage](https://github.org/g/anistark/ghost/?branch=master)](https://github.org/g/anistark/ghost/?branch=master)
+
 An online editor in the making in [node.js](http://nodejs.org/) 
 
 Currently:
