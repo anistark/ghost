@@ -1,6 +1,8 @@
 ghost
 =====
 
+[![Join the chat at https://gitter.im/anistark/ghost](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anistark/ghost?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 An online editor in the making in [node.js](http://nodejs.org/) 
