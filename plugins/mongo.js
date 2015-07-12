@@ -16,6 +16,7 @@ var mongojs = require('mongojs'),
 pastecoll.ensureIndex({ 'expires': 1 }, { expireAfterSeconds: 172800 });
 
 
+
 /**
  * Init the userdb
  *

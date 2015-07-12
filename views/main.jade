@@ -1,6 +1,9 @@
 extends template
 block body
   if paste
+      div
+        - console.log('now')
+      div
       pre#simpledit(contenteditable="true", style="display:none")
         = paste.text
       #editor
@@ -9,6 +12,9 @@ block body
       input#named(type="hidden", value="#{paste.name}")
       input#docid(type="hidden", value="#{paste._id}")
   else
+    div
+      - console.log('go now')
+    div
     pre#simpledit(contenteditable="true", style="display:none")
     #editor
     input#langs(type="hidden", value="JavaScript")
